@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "mega-challenge": {
+      "type": "http",
+      "url": "https://hq.mega.dev/mcp"
+    }
+  }
+}
